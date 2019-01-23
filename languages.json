@@ -7,6 +7,13 @@
       }
     },
     {
+      "alpha2": "am",
+      "translations": {
+        "en": "Amharic",
+        "nl": "Amhaars"
+      }
+    },
+    {
       "alpha2": "ar",
       "translations": {
         "en": "Arabic",
