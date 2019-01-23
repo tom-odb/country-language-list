@@ -1,0 +1,415 @@
+[
+    {
+      "alpha2": "af",
+      "translations": {
+        "en": "Afrikaans",
+        "nl": "Afrikaans"
+      }
+    },
+    {
+      "alpha2": "ar",
+      "translations": {
+        "en": "Arabic",
+        "nl": "Arabisch"
+      }
+    },
+    {
+      "alpha2": "az",
+      "translations": {
+        "en": "Azerbaijani",
+        "nl": "Azerbeidzjaans"
+      }
+    },
+    {
+      "alpha2": "bg",
+      "translations": {
+        "en": "Bulgarian",
+        "nl": "Bulgaars"
+      }
+    },
+    {
+      "alpha2": "bs",
+      "translations": {
+        "en": "Bosnian",
+        "nl": "Bosnisch"
+      }
+    },
+    {
+      "alpha2": "ca",
+      "translations": {
+        "en": "Catalan",
+        "nl": "Catalaans"
+      }
+    },
+    {
+      "alpha2": "ce",
+      "translations": {
+        "en": "Chechen",
+        "nl": "Tsjetsjeens"
+      }
+    },
+    {
+      "alpha2": "co",
+      "translations": {
+        "en": "Corsican",
+        "nl": "Corsicaans"
+      }
+    },
+    {
+      "alpha2": "cs",
+      "translations": {
+        "en": "Czech",
+        "nl": "Tsjechisch"
+      }
+    },
+    {
+      "alpha2": "da",
+      "translations": {
+        "en": "Danish",
+        "nl": "Deens"
+      }
+    },
+    {
+      "alpha2": "de",
+      "translations": {
+        "en": "German",
+        "nl": "Duits"
+      }
+    },
+    {
+      "alpha2": "el",
+      "translations": {
+        "en": "Greek",
+        "nl": "Grieks"
+      }
+    },
+    {
+      "alpha2": "en",
+      "translations": {
+        "en": "English",
+        "nl": "Engels"
+      }
+    },
+    {
+      "alpha2": "es",
+      "translations": {
+        "en": "Spanish",
+        "nl": "Spaans"
+      }
+    },
+    {
+      "alpha2": "et",
+      "translations": {
+        "en": "Estonian",
+        "nl": "Estlands"
+      }
+    },
+    {
+      "alpha2": "fa",
+      "translations": {
+        "en": "Persian",
+        "nl": "Perzisch"
+      }
+    },
+    {
+      "alpha2": "fi",
+      "translations": {
+        "en": "Finnish",
+        "nl": "Fins"
+      }
+    },
+    {
+      "alpha2": "fr",
+      "translations": {
+        "en": "French",
+        "nl": "Frans"
+      }
+    },
+    {
+      "alpha2": "ga",
+      "translations": {
+        "en": "Irish",
+        "nl": "Iers"
+      }
+    },
+    {
+      "alpha2": "he",
+      "translations": {
+        "en": "Hebrew",
+        "nl": "Hebreeuws"
+      }
+    },
+    {
+      "alpha2": "hi",
+      "translations": {
+        "en": "Hindi",
+        "nl": "Hindi"
+      }
+    },
+    {
+      "alpha2": "hr",
+      "translations": {
+        "en": "Croatian",
+        "nl": "Kroatisch"
+      }
+    },
+    {
+      "alpha2": "hu",
+      "translations": {
+        "en": "Hungarian",
+        "nl": "Hongaars"
+      }
+    },
+    {
+      "alpha2": "hy",
+      "translations": {
+        "en": "Armenian",
+        "nl": "Armeens"
+      }
+    },
+    {
+      "alpha2": "id",
+      "translations": {
+        "en": "Indonesian",
+        "nl": "Indonesisch"
+      }
+    },
+    {
+      "alpha2": "is",
+      "translations": {
+        "en": "Icelandic",
+        "nl": "IJslands"
+      }
+    },
+    {
+      "alpha2": "it",
+      "translations": {
+        "en": "Italian",
+        "nl": "Italiaans"
+      }
+    },
+    {
+      "alpha2": "ja",
+      "translations": {
+        "en": "Japanese",
+        "nl": "Japans"
+      }
+    },
+    {
+      "alpha2": "kk",
+      "translations": {
+        "en": "Kazakh",
+        "nl": "Kazachs"
+      }
+    },
+    {
+      "alpha2": "ko",
+      "translations": {
+        "en": "Korean",
+        "nl": "Koreaans"
+      }
+    },
+    {
+      "alpha2": "ku",
+      "translations": {
+        "en": "Kurdish",
+        "nl": "Koerdisch"
+      }
+    },
+    {
+      "alpha2": "lt",
+      "translations": {
+        "en": "Lithuanian",
+        "nl": "Litouws"
+      }
+    },
+    {
+      "alpha2": "lv",
+      "translations": {
+        "en": "Latvian",
+        "nl": "Lets"
+      }
+    },
+    {
+      "alpha2": "nl",
+      "translations": {
+        "en": "Dutch",
+        "nl": "Nederlands"
+      }
+    },
+    {
+      "alpha2": "no",
+      "translations": {
+        "en": "Norwegian",
+        "nl": "Noors"
+      }
+    },
+    {
+      "alpha2": "pl",
+      "translations": {
+        "en": "Polish",
+        "nl": "Pools"
+      }
+    },
+    {
+      "alpha2": "ps",
+      "translations": {
+        "en": "Pashto",
+        "nl": "Pashto"
+      }
+    },
+    {
+      "alpha2": "pt",
+      "translations": {
+        "en": "Portuguese",
+        "nl": "Portugees"
+      }
+    },
+    {
+      "alpha2": "qu",
+      "translations": {
+        "en": "Quechua",
+        "nl": "Quechua"
+      }
+    },
+    {
+      "alpha2": "rm",
+      "translations": {
+        "en": "Romansh",
+        "nl": "Reto-Romaans"
+      }
+    },
+    {
+      "alpha2": "ro",
+      "translations": {
+        "en": "Romanian",
+        "nl": "Roemeens"
+      }
+    },
+    {
+      "alpha2": "ru",
+      "translations": {
+        "en": "Russian",
+        "nl": "Russisch"
+      }
+    },
+    {
+      "alpha2": "sa",
+      "translations": {
+        "en": "Sanskrit",
+        "nl": "Sanskriet"
+      }
+    },
+    {
+      "alpha2": "sk",
+      "translations": {
+        "en": "Slovak",
+        "nl": "Slowaaks"
+      }
+    },
+    {
+      "alpha2": "sl",
+      "translations": {
+        "en": "Slovenian",
+        "nl": "Sloveens"
+      }
+    },
+    {
+      "alpha2": "sq",
+      "translations": {
+        "en": "Albanian",
+        "nl": "Albanees"
+      }
+    },
+    {
+      "alpha2": "sr",
+      "translations": {
+        "en": "Serbian",
+        "nl": "Servisch"
+      }
+    },
+    {
+      "alpha2": "su",
+      "translations": {
+        "en": "Sudanese",
+        "nl": "Soedanees"
+      }
+    },
+    {
+      "alpha2": "sv",
+      "translations": {
+        "en": "Swedish",
+        "nl": "Zweeds"
+      }
+    },
+    {
+      "alpha2": "sw",
+      "translations": {
+        "en": "Swahili",
+        "nl": "Swahili"
+      }
+    },
+    {
+      "alpha2": "th",
+      "translations": {
+        "en": "Thai",
+        "nl": "Thais"
+      }
+    },
+    {
+      "alpha2": "tl",
+      "translations": {
+        "en": "Tagalog",
+        "nl": "Tagalog"
+      }
+    },
+    {
+      "alpha2": "tr",
+      "translations": {
+        "en": "Turkish",
+        "nl": "Turks"
+      }
+    },
+    {
+      "alpha2": "uk",
+      "translations": {
+        "en": "Ukrainian",
+        "nl": "Oekraïens"
+      }
+    },
+    {
+      "alpha2": "ur",
+      "translations": {
+        "en": "Urdu",
+        "nl": "Urdu"
+      }
+    },
+    {
+      "alpha2": "uz",
+      "translations": {
+        "en": "Uzbek",
+        "nl": "Oezbeeks"
+      }
+    },
+    {
+      "alpha2": "vi",
+      "translations": {
+        "en": "Vietnamese",
+        "nl": "Vietnamees"
+      }
+    },
+    {
+      "alpha2": "zh",
+      "translations": {
+        "en": "Chinese",
+        "nl": "Chinees"
+      }
+    },
+    {
+      "alpha2": "zu",
+      "translations": {
+        "en": "Zulu",
+        "nl": "Zoeloe"
+      }
+    }
+  ]
